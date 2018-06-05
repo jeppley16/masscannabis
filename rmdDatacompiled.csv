@@ -1,0 +1,113 @@
+"","num","appnum","busName","conflicts","firstName","lastName","busAddress1","busAddress2","busCity","busState","busZip","dateSubmitted","regStatus"
+"1","1","RPA201977","Debilitating Medical Condition Treatment Centers, Inc.","no","John","Hanmer","11-13 Hampden Street",NA,"Springfield","MA","1103","4/13/18 2:14 PM","oOnbltyained Provisional Certificate of Registration"
+"2","2","RPA201901","Healthy Pharms, Inc.","no","Nathaniel","Averill","401 East Main St",NA,"Georgetown","MA","1833","4/13/18, 11:27:50 AM","nOobtt aoipneend  fFoirn abl uCsienrteisfisc iant eM oafs sRaecgihsutsraettitosn, but is"
+"3","1","RPA201842","Mayflower Botanicals, Inc.","No","Kevin","Pelissier","307 Brook Street","Apartment 2","New Bedford","MA","2745","2018-04-06","Obtained Provisional Certificate of Registration only"
+"4","2","RPA201945","Medicinal Alternatives, Inc.","No","Peter","Decaro","120 Gilboa Street",NA,"Douglas","MA","1516","2018-04-13","Obtained Provisional Certificate of Registration only"
+"5","3","RPA201867","Holistic Health Group Inc.","No","Tim","Mcnamara","202 Wood St.",NA,"Hopkinton","MA","1748","2018-04-06","Obtained Provisional Certificate of Registration only"
+"6","4","RPA201900","Middlesex Integrative Medicine, Inc.","No","Catherine","Zadina","155 Federal Street","Suite 402","Boston","MA","2110","2018-04-11","Obtained Provisional Certificate of Registration only"
+"7","5","RPA201948","New England Patient Network, Inc.","No","Jennifer","Crawford","One Curtis Street",NA,"East Boston","MA","2128","2018-04-13","Obtained Provisional Certificate of Registration only"
+"8","6","RPA201898","Just Healthy, Llc","No","Neil","Phelan","56 Colborne Rd",NA,"Boston","MA","2135","2018-04-12","Obtained Provisional Certificate of Registration only"
+"9","7","RPA201903","Berkshire Roots, Inc.","No","Kurt","Hospot","501 Dalton Ave",NA,"Pittsfield","MA","1201","2018-04-11","Obtained Final Certificate of Registration and is open
+for business in Massachusetts"
+"10","8","RPA201991","Ns Ajo Holdings, Llc","No","Aidan","O'Donovan","67 Dana Street","Unit #1","Cambridge","MA","2138","2018-04-13","Obtained Provisional Certificate of Registration only"
+"11","9","RPA201884","Apical, Inc. (Formerly Green Life Dispensary, Inc.)","No","Leakhena","Som","170 Pomeroy Meadow Rd.",NA,"Southampton","MA","1073","2018-04-12","Obtained Provisional Certificate of Registration only"
+"12","10","RPA201875","Md Holistics, Inc.","No","Michael","Drayer","63 Maple Street",NA,"West Bridgewater MA",NA,"2379","2018-04-13","Obtained Provisional Certificate of Registration only"
+"13","11","RPA201988","Bask, Inc.","No","Tim","Keogh","2 Pequod Road",NA,"Fairhaven","MA","2719","2018-04-13","Obtained Final Certificate of Registration and is open
+for business in Massachusetts"
+"14","12","RPA201937","Heka Incorporated.","No","Mark","Dupuis","98 Sgt. Tm Dion Way",NA,"Westfield","MA","1085","2018-04-06","Obtained Provisional Certificate of Registration only"
+"15","13","RPA201818","Greencare Therapeutics, Inc.","No","Charles","Smith","53 Airport Park Drive",NA,"Rockland","MA","2370","2018-04-12","Obtained Provisional Certificate of Registration only"
+"16","14","RPA201952","Northeast Alternatives, Inc.","No","Chris","Harkins","999 William S Canning Boulevard",NA,"Fall River","MA","2721","2018-04-06","Obtained Provisional Certificate of Registration only"
+"17","15","RPA201927","Verdant Medical, Inc.","Yes(A)","Anne","Nagle","33 Broadway",NA,"Hanover","MA","2339","2018-04-10","Obtained Provisional Certificate of Registration only"
+"18","16","RPA201958","Sanctuary Medicinals, Inc.","No","Jason","Sidman","234 Taylor Street",NA,"Littleton","MA","1460","2018-04-09","Obtained Final Certificate of Registration, but is not
+open for business in Massachusetts"
+"19","17","RPA201907","Commcan, Inc.","No","Ellen","Rosenfeld","730 Main Street","Suite 2A","Millis","MA","2054","2018-04-03","Obtained Final Certificate of Registration, but is not
+open for business in Massachusetts"
+"20","18","RPA201968","Liberty Compassion Center, Inc.","No","Armand","Spaziano","C/O Linda Martel, 4 Rolling Rock Lane, Blackstone, Ma 01504",NA,"Blackstone","MA","1504","2018-04-14","Obtained Provisional Certificate of Registration only"
+"21","19","RPA201924","Herbology Group","No","Jane","Hawman","82 Wendell Ave","Ste 100","Pittsfield","MA","1201","2018-04-10","Obtained Provisional Certificate of Registration only"
+"22","20","RPA201971","Old Planters Of Cape Ann","No","Stephen","Chaisson","7 Jewett Hill Rd",NA,"Ipswich","MA","1938","2018-04-11","Obtained Provisional Certificate of Registration only"
+"23","21","RPA201999","Wellness Connection Of Ma, Inc.","No","Kathleen","Donovan","C/O Kathleen F. Donovan, 30B Railroad Street",NA,"Revere","MA","2151","2018-04-14","Obtained Final Certificate of Registration and is open
+for business in Massachusetts"
+"24","22","RPA201864","Four Daughters Compassionate Care, Inc.","No","Brian","Striar","1200 Providence Highway",NA,"Sharon","MA","2067","2018-04-12","Obtained Provisional Certificate of Registration only"
+"25","23","RPA201929","Seven Point Of Massachusetts","No","Brad","Zerman","C/O Incorp Services, Inc","44 School Street, Suite #325","Boston","MA","2108","2018-04-11","Obtained Provisional Certificate of Registration only"
+"26","24","RPA201832","Ermont, Inc.","No","Lesley","Gordon","216 Ricciuti Drive",NA,"Quincy","MA","2169","2018-04-02","Obtained Final Certificate of Registration and is open
+for business in Massachusetts"
+"27","25","RPA201819","The Caregiver-Patient Connection","No","Dean","Iandoli","287 Chapman Rd",NA,"Barre","MA","1005","2018-04-06","Obtained Provisional Certificate of Registration only"
+"28","26","RPA201987","Fidelity Wellness Center, Inc","No","Stephen","Chaisson","38 Church St",NA,"Winchester","MA","1890","2018-04-13","Obtained Provisional Certificate of Registration only"
+"29","27","RPA201959","Vitasphere, Inc.","No","Stephen","Chaisson","1150 Walnut St",NA,"Newton","MA","2461","2018-04-11","Obtained Provisional Certificate of Registration only"
+"30","28","RPA201882","Curaleaf Massachusetts Inc","No","Patrik","Jonsson","2001 Washington Street","Unit B","Hanover","MA","2339","2018-04-03","Obtained Final Certificate of Registration and is open
+for business in Massachusetts"
+"31","29","RPA201923","Nature'S Remedy Of Massachusetts, Inc.","No","Stuart","Bernstein","3 Cedar Hill Road",NA,"Grafton","MA","1519","2018-04-06","Obtained Provisional Certificate of Registration only"
+"32","30","RPA201926","Commonwealth Alternative Care Inc.","No","Dorothy","Whalen","26 Watson Street","Unit 1","Cambridge","MA","2139","2018-04-13","Obtained Provisional Certificate of Registration only"
+"33","31","RPA201963","Compassionate Organics, Llc","No","Geoffrey","Reilinger","77 Exeter Street","No. 2603","Boston","MA","2116","2018-04-12","Obtained Provisional Certificate of Registration only"
+"34","1","RPA201888","Phytotherapy Inc","No","NA","NA","25 Newbury Street",NA,"Peabody","MA","1960","2018-04-03","Obtained Provisional Certificate of Registration only"
+"35","2","RPA201821","Pharmacannis Massachusetts Inc.","No","NA","NA","465 Hopping Brook Park",NA,"Holliston","MA","1746","2018-04-02","Obtained Provisional Certificate of Registration only"
+"36","3","RPA201939","Trichome Health Corp.","No","NA","NA","2 Seaport Lane","11th Floor - Vicente Sederberg LLC","Boston","MA","2210","2018-04-05","Obtained Provisional Certificate of Registration only"
+"37","4","RPA201911","Health Circle","No","NA","NA","44 Amys Way",NA,"Scituate","MA","2066","2018-04-03","Obtained Provisional Certificate of Registration only"
+"38","5","RPA201840","Holistic Industries, Inc.","No","NA","NA","24 School Street","5th Floor","Boston","MA","2108","2018-04-04","Obtained Provisional Certificate of Registration only"
+"39","6","RPA201870","GTI-Massachusetts NP Corporation","No","NA","NA","2 Seaport Lane","c/o Vicente Sederberg LLC","Boston","MA","2210","2018-04-04","Obtained Provisional Certificate of Registration only"
+"40","7","RPA201836","Mass Alternative Care, Inc.","No","NA","NA","1 Monarch Place","Suite 1900","Springfield","MA","1144","2018-04-02","Obtained Provisional Certificate of Registration only"
+"41","8","RPA201858","Cannatech Medicinals, Inc.","No","NA","NA","160 Hartwell Street",NA,"Fall River","MA","2720","2018-04-02","Obtained Provisional Certificate of Registration only"
+"42","9","RPA201852","BCWC, LLC","No","NA","NA","34 Extension Street",NA,"Attleboro","MA","2703","2018-04-05","Obtained Provisional Certificate of Registration only"
+"43","10","RPA201908","ARL Healthcare Inc","No","NA","NA","26 Ossipee Road","Suite 202","Newton","MA","2464","2018-04-04","Obtained Provisional Certificate of Registration only"
+"44","11","RPA201860","Prime Wellness Centers, Inc.","No","NA","NA","44 Independence Lane",NA,"Shrewsbury","MA","1545","2018-04-05","Obtained Provisional Certificate of Registration only"
+"45","12","RPA201902","Beacon Compassion Center, Inc","No","NA","NA","900 Washington Street","Suite A","Norwood","MA","2062","2018-04-05","Obtained Provisional Certificate of Registration only"
+"46","13","RPA201910","Patient Centric of Martha's Vineyard, Ltd.","No","NA","NA","90 Dr. Fisher Road",NA,"West Tisbury","MA","2575","2018-04-03","Obtained Provisional Certificate of Registration only"
+"47","14","RPA201823","William Noyes Webster Foundation, Inc.","No","NA","NA","46 Stonehedge Drive",NA,"Barnstable","MA","2630","2018-04-02","Obtained Provisional Certificate of Registration only"
+"48","15","RPA201894","Hope Heal Health, Inc.","No","NA","NA","1 West Street",NA,"Fall River","MA","2720","2018-04-04","Obtained Provisional Certificate of Registration only"
+"49","16","RPA201846","Atlantic Medicinal Partners, Inc.","No","NA","NA","329 Washington Street",NA,"Woburn","MA","1801","2018-04-03","Obtained Provisional Certificate of Registration only"
+"50","17","RPA201817","Good Chemistry of Massachusetts, Inc.","No","NA","NA","50 Congress Street","Suite 420","Boston","MA","2109","2018-04-02","Obtained Provisional Certificate of Registration only"
+"51","18","RPA201814","New England Cannabis Corporation","No","NA","NA","186 Meadowbrook Road",NA,"Weston","MA","2493","2018-04-02","Obtained Provisional Certificate of Registration only"
+"52","19","RPA201932","Olde World Remedies, Inc.","No","NA","NA","One Longfellow Place","Suite 3811","Boston","MA","2114","2018-04-04","Obtained Provisional Certificate of Registration only"
+"53","20","RPA201895","The Green Lady Dispensary, Inc.","No","NA","NA","11 Amelia Drive",NA,"Nantucket","MA","2554","2018-04-06","Obtained Provisional Certificate of Registration only"
+"54","1","RPA201837","Mass Wellspring","no","Olof","Ingare","18 Powdermill Rd",NA,"Acton","MA","1720","2018-04-09","Obtained Final Certificate of Registration, but is
+not open for business in Massachusetts"
+"55","2","RPA201874","M3 Ventures, Inc.","no","Lianne","Ankner","9 Collins Avenue",NA,"Plymouth","MA","2360","2018-04-03","Obtained Final Certificate of Registration and is
+open for business in Massachusetts"
+"56","3","RPA201880","Massachusetts Patient Foundation Inc","no","Joseph","Lekach","36 Glen Ave",NA,"Newton","MA","2459","2018-04-06","Obtained Final Certificate of Registration, but is
+not open for business in Massachusetts"
+"57","4","RPA201825","Alternative Therapies Group, Inc","no","Christopher","Edwards",NA,NA,NA,NA,NA,"2018-04-03","Obtained Final Certificate of Registration and is
+open for business in Massachusetts"
+"58","5","RPA201833","I.N.S.A., Inc.","yes(a)","Peter","Gallagher","122 Pleasant Street","Suite 144","Easthampton","MA","1027","2018-04-02","Obtained Final Certificate of Registration and is
+open for business in Massachusetts"
+"59","6","RPA201920","The Green Harbor Dispensary, LLC","no","Mukesh","Patel","120 Hannah Niles Way",NA,"Braintree","MA","2184","2018-04-10","Obtained Provisional Certificate of Registration
+only"
+"60","7","RPA201854","Silver Therapeutics, Inc.","no","Joshua","Silver","82 Wendell Ave, Ste 100",NA,"Pittsfield","MA","1201","2018-04-10","Obtained Provisional Certificate of Registration
+only"
+"61","8","RPA201839","Alternative Compassion Services, Inc","no","Stephen","Werther","693 Elm St",NA,"Bridgewater","MA","2324","2018-04-02","Obtained Final Certificate of Registration, but is
+not open for business in Massachusetts"
+"62","9","RPA201928","Ipswich Pharmaceutical Associates inc","no","joseph","McCarthy","53 Town Farm Road",NA,"Ipswich","MA","1938","2018-04-10","Obtained Provisional Certificate of Registration
+only"
+"63","10","RPA201820","Garden Remedies, Inc.","no","Tara","Zeltner","697 Washington Street",NA,"Newton","MA","2458","2018-04-02","Obtained Final Certificate of Registration and is
+open for business in Massachusetts"
+"64","11","RPA201838","Patriot Care Corp.","no","Robert","Mayerson","70 Industrial Avenue East","Suite B","Lowell","MA","1852","2018-04-03","Obtained Final Certificate of Registration and is
+open for business in Massachusetts"
+"65","12","RPA201935","MassMedicum Corp.","no","Jeremy","Bromberg","58 Post Island Road",NA,"Quincy","MA","2169","2018-04-06","Obtained Provisional Certificate of Registration
+only"
+"66","13","RPA201813","HVV Massachusetts, Inc.","no","Jennifer","Crawford",NA,NA,"null","null","null","2018-04-02","Obtained Provisional Certificate of Registration
+only"
+"67","14","RPA201918","Xiphias Wellness, Inc.","no","David","Brayton","PO Box D","482 Globe Street","Fall River","MA","2724","2018-04-05","Obtained Provisional Certificate of Registration
+only"
+"68","15","RPA201883","MAYFLOWER MEDICINALS, INC.","no","John","Henderson","33-2 Union Street",NA,"Boston","MA","2108","2018-04-03","Obtained Final Certificate of Registration, but is
+not open for business in Massachusetts"
+"69","16","RPA201916","Theory Wellness Inc","no","Nick","Friedman","38 Montvale Ave","#210","Stoneham","MA","2180","2018-04-03","Obtained Final Certificate of Registration and is
+open for business in Massachusetts"
+"70","17","RPA201942","Wellness Connection of Ma, Inc","no","Kathleen","Donovan","30B Railroad Ave",NA,"Revere","MA","2151","2018-04-05","Obtained Provisional Certificate of Registration
+only"
+"71","18","RPA201835","Central Ave Compassionate Care, Inc.","no","John","Hillier",NA,NA,NA,NA,NA,"2018-04-02","Obtained Final Certificate of Registration and is
+open for business in Massachusetts"
+"72","19","RPA201850","Temescal Wellness of Massachusetts, Inc.","yes(b)","Julia","Germaine","141 SW Cutoff",NA,"Worcester","MA","1604","2018-04-06","Obtained Provisional Certificate of Registration
+only"
+"73","20","RPA201826","In Good Health, Inc.","no","David","Noble","1200 West Chestnut Street",NA,"Brockton","MA","2301","2018-04-02","Obtained Final Certificate of Registration and is
+open for business in Massachusetts"
+"74","21","RPA201849","Revolutionary Clinics II, Inc.","no","Jennifer","Crawford","9 Bartlet Street, Suite 335",NA,"Andover","MA","1810","2018-04-02","Obtained Final Certificate of Registration and is
+open for business in Massachusetts"
+"75","22","RPA201822","New England Treatment Access, LLC.","no","Amanda","Rositano","5 Forge Parkway",NA,"Franklin","MA","2038","2018-04-02","Obtained Final Certificate of Registration and is
+open for business in Massachusetts"
+"76","23","RPA201922","THE HAVEN CENTER, INC.","no","Christopher","Taloumis","245 Route 6A",NA,"Orleans","MA","2653","2018-04-04","Obtained Provisional Certificate of Registration
+only"
+"77","24","RPA201855","SIRA NATURALS, INC.","no","MICHAEL","DUNDAS","300 TRADE CENTER DRIVE","SUITE 7700","WOBURN","MA","1801","2018-04-06","Obtained Final Certificate of Registration and is
+open for business in Massachusetts"
+"78","25","RPA201869","Happy Valley Compassion Center, Inc.","no","James","Counihan","38 Arbor Way",NA,"38 Arbor Way","MA","2356","2018-04-04","Obtained Provisional Certificate of Registration
+only"
+"79","26","RPA201845","Cultivate Holdings LLC","no","Sam","Barber","1764 Main Street",NA,"Leicester","MA","1524","2018-04-06","Obtained Final Certificate of Registration and is
+open for business in Massachusetts"
