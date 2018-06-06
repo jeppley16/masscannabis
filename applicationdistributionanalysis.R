@@ -1,14 +1,20 @@
 #Importing applications data 
 
 library(readxl)
-State_Application_Process_Data_New <- read_excel("dataprojects/masscannabis/State Application Process Data New.xlsx", col_types = c("date", "numeric", "numeric", 
+State_Application_Process_Data_New <- read_excel("State Application Process Data New.xlsx", col_types = c("date", "numeric", "numeric", 
                                                                        "numeric", "numeric", "numeric", 
-                                                                       "numeric", "numeric", "numeric", 
-#Turning imported data into data frame                                                                       "numeric"))
+                                                                       "numeric", "numeric", "numeric", "numeric", "numeric", "numeric", "numeric"))
 appData <- as.data.frame(State_Application_Process_Data_New)
 
 #Writing data as csv for others use
 write.csv(appData, file = "appData.csv")
+
+#Importing applications under review data
+
+library(readxl)
+appReview <- read_excel("State Application Process Data New.xlsx", sheet="underReview", col_types = c("date", "numeric", "numeric",                                                                                                     "numeric", "numeric", "numeric", 
+                                                                                                      "numeric", "numeric", "numeric", "numeric"))
+appReview <- as.data.frame(appReview)
 
 ##################################################################
 ### Building stacked area graph for overall application status ###
@@ -79,4 +85,27 @@ related to getting a license (App of Intent, Background, Management/Ops, Payment
   scale_fill_discrete(labels=c('Craft Cooperative', 'Cultivator', 'Establishment Agent',
                                'Microbusiness', 'Product Manufacturer', 'Research Facility',
                                'Retailer', 'Transporter'))
+
+##################################################################
+### Building stacked area graph for applications under review ###
+##################################################################
+
+#Reshaping dataset for input into stacked area 
+
+library(reshape)
+appReviewshaped <- melt(appReview, id=c("date"))
+
+library(ggplot2)
+
+appRevCategory <- appReviewshaped[which(appReviewshaped$variable == 'craftCooperative' 
+                                | appReviewshaped$variable == 'cultivator' 
+                                | appReviewshaped$variable == 'establishmentAgent'
+                                | appReviewshaped$variable == 'microbusiness'
+                                | appReviewshaped$variable == 'productManufacturer'
+                                | appReviewshaped$variable == 'researchFacility'
+                                | appReviewshaped$variable == 'retailer'
+                                | appReviewshaped$variable == 'transporter'),]
+
+
+#Creating stacked bar chart
 
